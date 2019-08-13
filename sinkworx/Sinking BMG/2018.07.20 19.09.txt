@@ -1,0 +1,1992 @@
+[Plate: WeissPilot]
+Time [s]: 0
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+229144	205212	197892	196095	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 60
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+223309	199010	196692	194127	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 120
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+224918	199370	195430	193703	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 180
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+229115	203834	197438	193679	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 240
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+226265	200473	194488	196417	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 300
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+226062	199387	194260	196116	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 360
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+227010	204696	196718	194523	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 420
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+225589	199303	198237	198145	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 480
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+224738	200539	196166	194658	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 540
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+226350	199715	196880	192807	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 600
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+226139	200826	192708	193278	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 660
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+226864	200201	195269	192415	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 720
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+227648	196023	194604	189681	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 780
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+222311	202427	195323	196703	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 840
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+227120	200001	194768	191118	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 900
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+226506	199095	193863	194390	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 960
+T[°C]: 23.4
+na	na	na	na	na	na	na	na	na	na	na	na
+224016	199209	196239	193060	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1020
+T[°C]: 23.5
+na	na	na	na	na	na	na	na	na	na	na	na
+223135	198094	192203	192404	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1080
+T[°C]: 23.5
+na	na	na	na	na	na	na	na	na	na	na	na
+226477	196319	193032	192676	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1140
+T[°C]: 23.5
+na	na	na	na	na	na	na	na	na	na	na	na
+222908	197499	191722	195971	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1200
+T[°C]: 23.5
+na	na	na	na	na	na	na	na	na	na	na	na
+225571	196965	195792	193776	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1260
+T[°C]: 23.5
+na	na	na	na	na	na	na	na	na	na	na	na
+223612	196748	193620	192607	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1320
+T[°C]: 23.6
+na	na	na	na	na	na	na	na	na	na	na	na
+225817	197340	192857	192656	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1380
+T[°C]: 23.6
+na	na	na	na	na	na	na	na	na	na	na	na
+222429	196623	193575	192579	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1440
+T[°C]: 23.6
+na	na	na	na	na	na	na	na	na	na	na	na
+221818	197751	193837	192774	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1500
+T[°C]: 23.6
+na	na	na	na	na	na	na	na	na	na	na	na
+225600	193871	194964	190248	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1560
+T[°C]: 23.6
+na	na	na	na	na	na	na	na	na	na	na	na
+221592	195330	193192	190813	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1620
+T[°C]: 23.6
+na	na	na	na	na	na	na	na	na	na	na	na
+224057	193006	189834	191535	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1680
+T[°C]: 23.6
+na	na	na	na	na	na	na	na	na	na	na	na
+224869	199865	190806	191878	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1740
+T[°C]: 23.6
+na	na	na	na	na	na	na	na	na	na	na	na
+219891	194591	187736	190981	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1800
+T[°C]: 23.7
+na	na	na	na	na	na	na	na	na	na	na	na
+218765	195415	190644	191855	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1860
+T[°C]: 23.7
+na	na	na	na	na	na	na	na	na	na	na	na
+222184	193369	189274	191092	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1920
+T[°C]: 23.7
+na	na	na	na	na	na	na	na	na	na	na	na
+221745	195296	189427	189758	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1980
+T[°C]: 23.8
+na	na	na	na	na	na	na	na	na	na	na	na
+222819	191984	192050	188189	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2040
+T[°C]: 23.8
+na	na	na	na	na	na	na	na	na	na	na	na
+222019	191876	186949	190040	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2100
+T[°C]: 23.8
+na	na	na	na	na	na	na	na	na	na	na	na
+219253	194924	191454	188580	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2160
+T[°C]: 23.8
+na	na	na	na	na	na	na	na	na	na	na	na
+223214	189622	190618	191388	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2220
+T[°C]: 23.8
+na	na	na	na	na	na	na	na	na	na	na	na
+218729	192089	189994	184896	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2280
+T[°C]: 23.8
+na	na	na	na	na	na	na	na	na	na	na	na
+216051	193192	189509	191497	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2340
+T[°C]: 23.8
+na	na	na	na	na	na	na	na	na	na	na	na
+220384	191600	188460	190814	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2400
+T[°C]: 23.9
+na	na	na	na	na	na	na	na	na	na	na	na
+215358	192960	192751	185491	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2460
+T[°C]: 23.9
+na	na	na	na	na	na	na	na	na	na	na	na
+218899	192000	187179	186712	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2520
+T[°C]: 23.9
+na	na	na	na	na	na	na	na	na	na	na	na
+219442	191610	189003	189971	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2580
+T[°C]: 23.9
+na	na	na	na	na	na	na	na	na	na	na	na
+217074	189352	188074	184990	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2640
+T[°C]: 23.9
+na	na	na	na	na	na	na	na	na	na	na	na
+218338	189627	189997	188322	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2700
+T[°C]: 23.9
+na	na	na	na	na	na	na	na	na	na	na	na
+216871	189066	187325	186096	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2760
+T[°C]: 24.0
+na	na	na	na	na	na	na	na	na	na	na	na
+214133	188821	187731	186186	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2820
+T[°C]: 24.0
+na	na	na	na	na	na	na	na	na	na	na	na
+215646	190529	189425	189724	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2880
+T[°C]: 24.0
+na	na	na	na	na	na	na	na	na	na	na	na
+219575	190042	189650	187549	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2940
+T[°C]: 24.1
+na	na	na	na	na	na	na	na	na	na	na	na
+219374	190080	190291	186665	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3000
+T[°C]: 24.1
+na	na	na	na	na	na	na	na	na	na	na	na
+214685	190116	186894	186776	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3060
+T[°C]: 24.1
+na	na	na	na	na	na	na	na	na	na	na	na
+217736	186151	188362	186391	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3120
+T[°C]: 24.1
+na	na	na	na	na	na	na	na	na	na	na	na
+217338	189448	188237	187604	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3180
+T[°C]: 24.1
+na	na	na	na	na	na	na	na	na	na	na	na
+216475	191054	186004	185956	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3240
+T[°C]: 24.1
+na	na	na	na	na	na	na	na	na	na	na	na
+214559	189124	188663	185303	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3300
+T[°C]: 24.2
+na	na	na	na	na	na	na	na	na	na	na	na
+214678	187330	183795	188008	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3360
+T[°C]: 24.2
+na	na	na	na	na	na	na	na	na	na	na	na
+212974	185353	187493	187123	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3420
+T[°C]: 24.3
+na	na	na	na	na	na	na	na	na	na	na	na
+216810	190995	185533	182581	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3480
+T[°C]: 24.3
+na	na	na	na	na	na	na	na	na	na	na	na
+211842	185797	188814	182674	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3540
+T[°C]: 24.3
+na	na	na	na	na	na	na	na	na	na	na	na
+216161	190367	184499	182428	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3600
+T[°C]: 24.3
+na	na	na	na	na	na	na	na	na	na	na	na
+212725	188464	188005	183968	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3660
+T[°C]: 24.3
+na	na	na	na	na	na	na	na	na	na	na	na
+212578	188259	185250	182079	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3720
+T[°C]: 24.3
+na	na	na	na	na	na	na	na	na	na	na	na
+213724	189269	188748	182499	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3780
+T[°C]: 24.4
+na	na	na	na	na	na	na	na	na	na	na	na
+211671	188007	186083	183242	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3840
+T[°C]: 24.4
+na	na	na	na	na	na	na	na	na	na	na	na
+215892	187202	181370	181333	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3900
+T[°C]: 24.4
+na	na	na	na	na	na	na	na	na	na	na	na
+213702	189428	191046	181845	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3960
+T[°C]: 24.4
+na	na	na	na	na	na	na	na	na	na	na	na
+214246	188269	182724	181614	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4020
+T[°C]: 24.4
+na	na	na	na	na	na	na	na	na	na	na	na
+212893	190328	186023	182427	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4080
+T[°C]: 24.4
+na	na	na	na	na	na	na	na	na	na	na	na
+211305	186391	186395	179649	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4140
+T[°C]: 24.5
+na	na	na	na	na	na	na	na	na	na	na	na
+212901	184130	186662	179739	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4200
+T[°C]: 24.5
+na	na	na	na	na	na	na	na	na	na	na	na
+211869	186895	183595	179367	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4260
+T[°C]: 24.6
+na	na	na	na	na	na	na	na	na	na	na	na
+211870	186540	183446	182998	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4320
+T[°C]: 24.6
+na	na	na	na	na	na	na	na	na	na	na	na
+213042	188812	185648	181139	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4380
+T[°C]: 24.6
+na	na	na	na	na	na	na	na	na	na	na	na
+214738	185041	185606	181860	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4440
+T[°C]: 24.6
+na	na	na	na	na	na	na	na	na	na	na	na
+213662	186400	185772	180805	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4500
+T[°C]: 24.6
+na	na	na	na	na	na	na	na	na	na	na	na
+213429	185946	182755	181909	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4560
+T[°C]: 24.6
+na	na	na	na	na	na	na	na	na	na	na	na
+209871	187078	180036	180774	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4620
+T[°C]: 24.7
+na	na	na	na	na	na	na	na	na	na	na	na
+213169	184620	182578	181830	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4680
+T[°C]: 24.7
+na	na	na	na	na	na	na	na	na	na	na	na
+212926	186889	186816	180438	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4740
+T[°C]: 24.7
+na	na	na	na	na	na	na	na	na	na	na	na
+212673	187199	185063	178879	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4800
+T[°C]: 24.8
+na	na	na	na	na	na	na	na	na	na	na	na
+210851	185339	185528	178570	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4860
+T[°C]: 24.8
+na	na	na	na	na	na	na	na	na	na	na	na
+215463	186147	184928	180357	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4920
+T[°C]: 24.8
+na	na	na	na	na	na	na	na	na	na	na	na
+217814	185178	186981	176566	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4980
+T[°C]: 24.8
+na	na	na	na	na	na	na	na	na	na	na	na
+212671	182324	183915	176192	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5040
+T[°C]: 24.8
+na	na	na	na	na	na	na	na	na	na	na	na
+212857	185339	183953	180669	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5100
+T[°C]: 24.8
+na	na	na	na	na	na	na	na	na	na	na	na
+213245	186313	186814	179047	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5160
+T[°C]: 24.8
+na	na	na	na	na	na	na	na	na	na	na	na
+211209	182163	185297	180189	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5220
+T[°C]: 24.9
+na	na	na	na	na	na	na	na	na	na	na	na
+210026	186400	185091	179416	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5280
+T[°C]: 24.9
+na	na	na	na	na	na	na	na	na	na	na	na
+212521	183932	183366	177336	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5340
+T[°C]: 24.9
+na	na	na	na	na	na	na	na	na	na	na	na
+214748	184866	184478	179743	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5400
+T[°C]: 24.9
+na	na	na	na	na	na	na	na	na	na	na	na
+211700	186951	183171	178419	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5460
+T[°C]: 24.9
+na	na	na	na	na	na	na	na	na	na	na	na
+211331	184079	183104	176657	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5520
+T[°C]: 24.9
+na	na	na	na	na	na	na	na	na	na	na	na
+213356	183462	185358	179143	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5580
+T[°C]: 24.9
+na	na	na	na	na	na	na	na	na	na	na	na
+205905	182614	183611	177154	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5640
+T[°C]: 25.0
+na	na	na	na	na	na	na	na	na	na	na	na
+214755	185585	182899	177398	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5700
+T[°C]: 25.0
+na	na	na	na	na	na	na	na	na	na	na	na
+209982	185258	182841	177213	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5760
+T[°C]: 25.0
+na	na	na	na	na	na	na	na	na	na	na	na
+208595	180045	181258	176403	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5820
+T[°C]: 25.0
+na	na	na	na	na	na	na	na	na	na	na	na
+211348	183427	183225	175577	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5880
+T[°C]: 25.1
+na	na	na	na	na	na	na	na	na	na	na	na
+208505	185272	181923	176456	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5940
+T[°C]: 25.1
+na	na	na	na	na	na	na	na	na	na	na	na
+206743	185770	181990	175399	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6000
+T[°C]: 25.1
+na	na	na	na	na	na	na	na	na	na	na	na
+211261	184327	183920	174335	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6060
+T[°C]: 25.1
+na	na	na	na	na	na	na	na	na	na	na	na
+213680	181795	180857	172007	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6120
+T[°C]: 25.1
+na	na	na	na	na	na	na	na	na	na	na	na
+211452	184342	182270	173643	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6180
+T[°C]: 25.1
+na	na	na	na	na	na	na	na	na	na	na	na
+210581	181354	180734	176240	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6240
+T[°C]: 25.1
+na	na	na	na	na	na	na	na	na	na	na	na
+212113	183747	179851	174026	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6300
+T[°C]: 25.1
+na	na	na	na	na	na	na	na	na	na	na	na
+210093	185105	180724	174841	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6360
+T[°C]: 25.2
+na	na	na	na	na	na	na	na	na	na	na	na
+209702	183846	179850	174525	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6420
+T[°C]: 25.2
+na	na	na	na	na	na	na	na	na	na	na	na
+207531	183825	181466	176434	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6480
+T[°C]: 25.2
+na	na	na	na	na	na	na	na	na	na	na	na
+208166	184768	182630	172726	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6540
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+207842	181711	178507	172985	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6600
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+212617	182943	183195	172267	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6660
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+211072	182651	181206	176119	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6720
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+210676	182482	182380	173483	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6780
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+211293	178863	182831	171540	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6840
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+211895	181946	179387	174980	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6900
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+208663	182784	183366	172309	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6960
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+209853	182248	183550	175764	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7020
+T[°C]: 25.3
+na	na	na	na	na	na	na	na	na	na	na	na
+210205	183043	181505	168986	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7080
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+209745	181681	181917	174342	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7140
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+210645	180005	182708	172570	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7200
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+213898	179061	179460	173478	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7260
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+213766	177703	179813	176618	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7320
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+209516	180787	182764	174191	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7380
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+212476	181071	182270	172036	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7440
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+211878	177092	177524	173246	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7500
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+211286	178914	178144	175169	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7560
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+211634	177453	179837	173839	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7620
+T[°C]: 25.4
+na	na	na	na	na	na	na	na	na	na	na	na
+210477	179397	177743	173300	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7680
+T[°C]: 25.5
+na	na	na	na	na	na	na	na	na	na	na	na
+211504	180582	179949	169463	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7740
+T[°C]: 25.5
+na	na	na	na	na	na	na	na	na	na	na	na
+211035	182334	182461	170682	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7800
+T[°C]: 25.5
+na	na	na	na	na	na	na	na	na	na	na	na
+209746	179994	177756	173126	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7860
+T[°C]: 25.5
+na	na	na	na	na	na	na	na	na	na	na	na
+209504	182756	181885	167852	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7920
+T[°C]: 25.5
+na	na	na	na	na	na	na	na	na	na	na	na
+208871	180234	177816	169932	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7980
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+210135	178673	178171	170420	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8040
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+209252	180807	176391	171639	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8100
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+210626	183247	177981	174850	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8160
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+211743	176117	176988	174885	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8220
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+208342	181441	182684	173153	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8280
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+211169	182908	180725	170641	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8340
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+210493	178873	177859	173568	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8400
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+214771	181238	180119	173441	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8460
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+211739	182303	177177	172934	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8520
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+213027	175758	176505	173191	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8580
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+213294	181313	180383	169301	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8640
+T[°C]: 25.6
+na	na	na	na	na	na	na	na	na	na	na	na
+210583	180454	175100	170416	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8700
+T[°C]: 25.7
+na	na	na	na	na	na	na	na	na	na	na	na
+207692	176473	177538	165712	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8760
+T[°C]: 25.7
+na	na	na	na	na	na	na	na	na	na	na	na
+211149	177629	178688	170503	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8820
+T[°C]: 25.7
+na	na	na	na	na	na	na	na	na	na	na	na
+212428	180385	179760	168170	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8880
+T[°C]: 25.7
+na	na	na	na	na	na	na	na	na	na	na	na
+209048	180046	177185	168352	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8940
+T[°C]: 25.7
+na	na	na	na	na	na	na	na	na	na	na	na
+211434	181840	180515	168871	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9000
+T[°C]: 25.7
+na	na	na	na	na	na	na	na	na	na	na	na
+211247	176599	175708	168828	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9060
+T[°C]: 25.7
+na	na	na	na	na	na	na	na	na	na	na	na
+214112	177924	176876	170590	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9120
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+208921	177771	177734	169826	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9180
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+211222	176469	179497	168054	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9240
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+210755	178965	178888	172241	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9300
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+208270	179091	178010	169549	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9360
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+212501	177636	178662	169942	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9420
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+213309	179400	176080	169332	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9480
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+208086	179427	180221	167043	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9540
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+208331	173857	176371	171849	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9600
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+210891	176084	177515	170004	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9660
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+210160	177253	179054	166376	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9720
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+214633	180720	174888	166235	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9780
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+211512	179106	179199	167317	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9840
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+208902	179769	173561	168155	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9900
+T[°C]: 25.8
+na	na	na	na	na	na	na	na	na	na	na	na
+210943	175461	176559	169289	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9960
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+209953	177227	177140	166616	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10020
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+211593	179293	178140	164377	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10080
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+208789	179012	176736	168303	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10140
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+213265	177248	173020	164796	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10200
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+210725	179712	174340	170044	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10260
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+210108	180703	181182	169925	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10320
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+212795	179137	178164	167710	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10380
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+212760	175272	179093	167344	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10440
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+207218	180050	178344	163663	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10500
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+215049	177699	174232	165762	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10560
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+211079	179266	177910	168106	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10620
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+208130	181329	176637	166834	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10680
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+212454	178481	177433	163788	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10740
+T[°C]: 25.9
+na	na	na	na	na	na	na	na	na	na	na	na
+209198	178170	175243	164411	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10800
+T[°C]: 26.0
+na	na	na	na	na	na	na	na	na	na	na	na
+211935	173441	173414	167491	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+

@@ -1,0 +1,2322 @@
+[Plate: chlorella6]
+Time [s]: 0
+T[°C]: 25.1
+na	na	na	na	2698	2722	2840	2867	na	na	na	na
+na	na	na	na	2034	2202	2086	2041	na	na	na	na
+na	na	na	na	1339	1316	1274	1270	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 60
+T[°C]: 25.0
+na	na	na	na	2893	2887	3040	3052	na	na	na	na
+na	na	na	na	2078	2235	2114	2073	na	na	na	na
+na	na	na	na	1347	1281	1267	1257	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 120
+T[°C]: 25.0
+na	na	na	na	2874	2891	3049	3063	na	na	na	na
+na	na	na	na	2101	2238	2105	2074	na	na	na	na
+na	na	na	na	1319	1284	1252	1262	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 180
+T[°C]: 25.0
+na	na	na	na	2853	2909	3053	3045	na	na	na	na
+na	na	na	na	2092	2209	2108	2049	na	na	na	na
+na	na	na	na	1326	1268	1253	1236	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 240
+T[°C]: 25.0
+na	na	na	na	2877	2897	3001	2999	na	na	na	na
+na	na	na	na	2101	2150	2084	2041	na	na	na	na
+na	na	na	na	1300	1255	1242	1247	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 300
+T[°C]: 25.0
+na	na	na	na	2842	2855	2985	2966	na	na	na	na
+na	na	na	na	2090	2132	2057	2039	na	na	na	na
+na	na	na	na	1302	1246	1224	1229	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 360
+T[°C]: 25.0
+na	na	na	na	2858	2890	2949	2969	na	na	na	na
+na	na	na	na	2089	2113	2042	2030	na	na	na	na
+na	na	na	na	1299	1230	1207	1216	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 420
+T[°C]: 25.0
+na	na	na	na	2814	2846	2946	2937	na	na	na	na
+na	na	na	na	2060	2078	2038	1998	na	na	na	na
+na	na	na	na	1273	1218	1201	1197	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 480
+T[°C]: 25.0
+na	na	na	na	2805	2834	2952	2937	na	na	na	na
+na	na	na	na	2049	2088	2026	2000	na	na	na	na
+na	na	na	na	1282	1209	1185	1204	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 540
+T[°C]: 24.9
+na	na	na	na	2803	2824	2928	2900	na	na	na	na
+na	na	na	na	2052	2070	2013	1977	na	na	na	na
+na	na	na	na	1260	1198	1180	1172	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 600
+T[°C]: 24.9
+na	na	na	na	2795	2802	2889	2899	na	na	na	na
+na	na	na	na	2024	2062	1988	1985	na	na	na	na
+na	na	na	na	1245	1185	1166	1171	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 660
+T[°C]: 24.9
+na	na	na	na	2789	2809	2905	2874	na	na	na	na
+na	na	na	na	2003	2028	1974	1969	na	na	na	na
+na	na	na	na	1228	1175	1168	1176	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 720
+T[°C]: 24.9
+na	na	na	na	2761	2787	2883	2899	na	na	na	na
+na	na	na	na	2012	2026	1980	1968	na	na	na	na
+na	na	na	na	1218	1166	1183	1171	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 780
+T[°C]: 24.9
+na	na	na	na	2758	2781	2858	2876	na	na	na	na
+na	na	na	na	1991	2009	1980	1959	na	na	na	na
+na	na	na	na	1215	1176	1157	1155	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 840
+T[°C]: 24.9
+na	na	na	na	2760	2783	2874	2890	na	na	na	na
+na	na	na	na	1967	2017	1979	1946	na	na	na	na
+na	na	na	na	1206	1170	1160	1155	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 900
+T[°C]: 24.9
+na	na	na	na	2737	2765	2867	2864	na	na	na	na
+na	na	na	na	1969	1994	1964	1933	na	na	na	na
+na	na	na	na	1204	1150	1154	1148	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 960
+T[°C]: 24.9
+na	na	na	na	2752	2764	2873	2859	na	na	na	na
+na	na	na	na	1978	1988	1960	1921	na	na	na	na
+na	na	na	na	1210	1145	1158	1146	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1020
+T[°C]: 24.9
+na	na	na	na	2735	2782	2849	2853	na	na	na	na
+na	na	na	na	1942	1968	1954	1931	na	na	na	na
+na	na	na	na	1198	1142	1138	1134	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1080
+T[°C]: 24.9
+na	na	na	na	2733	2749	2840	2819	na	na	na	na
+na	na	na	na	1956	1966	1929	1912	na	na	na	na
+na	na	na	na	1174	1147	1148	1136	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1140
+T[°C]: 24.9
+na	na	na	na	2723	2757	2853	2814	na	na	na	na
+na	na	na	na	1950	1966	1911	1893	na	na	na	na
+na	na	na	na	1189	1132	1148	1142	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1200
+T[°C]: 24.9
+na	na	na	na	2730	2743	2803	2838	na	na	na	na
+na	na	na	na	1945	1973	1945	1903	na	na	na	na
+na	na	na	na	1175	1137	1153	1131	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1260
+T[°C]: 24.9
+na	na	na	na	2704	2742	2822	2809	na	na	na	na
+na	na	na	na	1944	1969	1912	1910	na	na	na	na
+na	na	na	na	1156	1109	1127	1126	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1320
+T[°C]: 25.0
+na	na	na	na	2734	2738	2832	2800	na	na	na	na
+na	na	na	na	1940	1952	1895	1879	na	na	na	na
+na	na	na	na	1160	1109	1118	1131	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1380
+T[°C]: 25.0
+na	na	na	na	2729	2756	2814	2810	na	na	na	na
+na	na	na	na	1933	1936	1895	1891	na	na	na	na
+na	na	na	na	1162	1109	1110	1124	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1440
+T[°C]: 25.0
+na	na	na	na	2719	2732	2810	2799	na	na	na	na
+na	na	na	na	1909	1914	1881	1870	na	na	na	na
+na	na	na	na	1152	1097	1114	1114	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1500
+T[°C]: 25.0
+na	na	na	na	2721	2731	2817	2800	na	na	na	na
+na	na	na	na	1893	1915	1893	1868	na	na	na	na
+na	na	na	na	1156	1102	1119	1104	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1560
+T[°C]: 25.0
+na	na	na	na	2688	2727	2773	2803	na	na	na	na
+na	na	na	na	1916	1914	1889	1866	na	na	na	na
+na	na	na	na	1142	1101	1108	1105	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1620
+T[°C]: 25.0
+na	na	na	na	2700	2729	2783	2802	na	na	na	na
+na	na	na	na	1896	1905	1877	1848	na	na	na	na
+na	na	na	na	1146	1081	1108	1097	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1680
+T[°C]: 25.0
+na	na	na	na	2712	2733	2768	2785	na	na	na	na
+na	na	na	na	1889	1925	1862	1842	na	na	na	na
+na	na	na	na	1131	1088	1103	1100	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1740
+T[°C]: 25.0
+na	na	na	na	2657	2712	2774	2779	na	na	na	na
+na	na	na	na	1891	1901	1863	1838	na	na	na	na
+na	na	na	na	1125	1076	1108	1094	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1800
+T[°C]: 25.0
+na	na	na	na	2687	2696	2763	2776	na	na	na	na
+na	na	na	na	1856	1886	1861	1825	na	na	na	na
+na	na	na	na	1126	1084	1096	1090	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1860
+T[°C]: 25.0
+na	na	na	na	2686	2721	2771	2780	na	na	na	na
+na	na	na	na	1880	1902	1847	1808	na	na	na	na
+na	na	na	na	1125	1066	1088	1096	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1920
+T[°C]: 25.1
+na	na	na	na	2688	2698	2763	2792	na	na	na	na
+na	na	na	na	1864	1881	1853	1831	na	na	na	na
+na	na	na	na	1104	1064	1110	1090	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 1980
+T[°C]: 25.1
+na	na	na	na	2690	2701	2762	2754	na	na	na	na
+na	na	na	na	1856	1888	1827	1815	na	na	na	na
+na	na	na	na	1115	1069	1077	1087	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2040
+T[°C]: 25.1
+na	na	na	na	2670	2720	2755	2768	na	na	na	na
+na	na	na	na	1845	1878	1832	1809	na	na	na	na
+na	na	na	na	1119	1049	1095	1077	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2100
+T[°C]: 25.1
+na	na	na	na	2665	2686	2747	2762	na	na	na	na
+na	na	na	na	1833	1864	1839	1815	na	na	na	na
+na	na	na	na	1097	1068	1076	1064	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2160
+T[°C]: 25.1
+na	na	na	na	2669	2688	2747	2751	na	na	na	na
+na	na	na	na	1845	1875	1803	1790	na	na	na	na
+na	na	na	na	1102	1056	1069	1064	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2220
+T[°C]: 25.1
+na	na	na	na	2654	2690	2745	2748	na	na	na	na
+na	na	na	na	1822	1860	1816	1791	na	na	na	na
+na	na	na	na	1093	1065	1064	1065	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2280
+T[°C]: 25.1
+na	na	na	na	2649	2684	2740	2764	na	na	na	na
+na	na	na	na	1816	1871	1807	1788	na	na	na	na
+na	na	na	na	1088	1047	1059	1058	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2340
+T[°C]: 25.1
+na	na	na	na	2664	2683	2712	2711	na	na	na	na
+na	na	na	na	1807	1829	1805	1784	na	na	na	na
+na	na	na	na	1090	1041	1073	1048	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2400
+T[°C]: 25.1
+na	na	na	na	2648	2658	2726	2745	na	na	na	na
+na	na	na	na	1830	1852	1798	1775	na	na	na	na
+na	na	na	na	1077	1052	1071	1059	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2460
+T[°C]: 25.1
+na	na	na	na	2661	2651	2715	2747	na	na	na	na
+na	na	na	na	1813	1865	1800	1804	na	na	na	na
+na	na	na	na	1073	1043	1061	1062	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2520
+T[°C]: 25.1
+na	na	na	na	2669	2662	2710	2742	na	na	na	na
+na	na	na	na	1791	1842	1794	1769	na	na	na	na
+na	na	na	na	1056	1028	1038	1053	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2580
+T[°C]: 25.1
+na	na	na	na	2631	2660	2729	2738	na	na	na	na
+na	na	na	na	1804	1842	1786	1787	na	na	na	na
+na	na	na	na	1068	1041	1055	1045	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2640
+T[°C]: 25.2
+na	na	na	na	2638	2675	2698	2726	na	na	na	na
+na	na	na	na	1804	1828	1775	1768	na	na	na	na
+na	na	na	na	1060	1028	1045	1046	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2700
+T[°C]: 25.2
+na	na	na	na	2640	2650	2719	2733	na	na	na	na
+na	na	na	na	1809	1841	1783	1753	na	na	na	na
+na	na	na	na	1058	1037	1059	1036	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2760
+T[°C]: 25.2
+na	na	na	na	2660	2637	2712	2712	na	na	na	na
+na	na	na	na	1789	1844	1797	1755	na	na	na	na
+na	na	na	na	1057	1026	1041	1038	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2820
+T[°C]: 25.2
+na	na	na	na	2646	2650	2723	2747	na	na	na	na
+na	na	na	na	1797	1835	1786	1771	na	na	na	na
+na	na	na	na	1043	1036	1051	1047	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2880
+T[°C]: 25.2
+na	na	na	na	2650	2641	2704	2711	na	na	na	na
+na	na	na	na	1794	1827	1793	1751	na	na	na	na
+na	na	na	na	1050	1025	1037	1047	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 2940
+T[°C]: 25.2
+na	na	na	na	2639	2647	2741	2715	na	na	na	na
+na	na	na	na	1779	1832	1781	1742	na	na	na	na
+na	na	na	na	1050	1008	1039	1031	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3000
+T[°C]: 25.2
+na	na	na	na	2630	2664	2707	2728	na	na	na	na
+na	na	na	na	1791	1824	1780	1760	na	na	na	na
+na	na	na	na	1039	1009	1028	1039	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3060
+T[°C]: 25.2
+na	na	na	na	2614	2641	2706	2730	na	na	na	na
+na	na	na	na	1775	1840	1771	1748	na	na	na	na
+na	na	na	na	1045	1011	1033	1031	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3120
+T[°C]: 25.2
+na	na	na	na	2606	2618	2711	2709	na	na	na	na
+na	na	na	na	1801	1824	1773	1747	na	na	na	na
+na	na	na	na	1039	1010	1025	1026	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3180
+T[°C]: 25.3
+na	na	na	na	2636	2628	2713	2712	na	na	na	na
+na	na	na	na	1790	1838	1768	1730	na	na	na	na
+na	na	na	na	1013	994	1021	1027	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3240
+T[°C]: 25.3
+na	na	na	na	2620	2644	2728	2714	na	na	na	na
+na	na	na	na	1781	1829	1775	1743	na	na	na	na
+na	na	na	na	1027	1008	1035	1013	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3300
+T[°C]: 25.3
+na	na	na	na	2601	2645	2698	2719	na	na	na	na
+na	na	na	na	1790	1834	1776	1728	na	na	na	na
+na	na	na	na	1037	1003	1019	1030	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3360
+T[°C]: 25.3
+na	na	na	na	2629	2669	2698	2712	na	na	na	na
+na	na	na	na	1790	1834	1790	1755	na	na	na	na
+na	na	na	na	1019	978	1005	1023	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3420
+T[°C]: 25.3
+na	na	na	na	2642	2640	2702	2694	na	na	na	na
+na	na	na	na	1789	1840	1793	1753	na	na	na	na
+na	na	na	na	1024	984	1019	1033	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3480
+T[°C]: 25.3
+na	na	na	na	2612	2655	2713	2708	na	na	na	na
+na	na	na	na	1817	1847	1791	1755	na	na	na	na
+na	na	na	na	1014	990	1020	1019	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3540
+T[°C]: 25.3
+na	na	na	na	2620	2650	2718	2689	na	na	na	na
+na	na	na	na	1804	1854	1787	1752	na	na	na	na
+na	na	na	na	1019	987	1015	1015	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3600
+T[°C]: 25.3
+na	na	na	na	2611	2644	2726	2713	na	na	na	na
+na	na	na	na	1801	1864	1799	1771	na	na	na	na
+na	na	na	na	1013	996	1000	1023	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3660
+T[°C]: 25.3
+na	na	na	na	2626	2628	2707	2703	na	na	na	na
+na	na	na	na	1794	1853	1810	1763	na	na	na	na
+na	na	na	na	1020	991	1010	1014	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3720
+T[°C]: 25.3
+na	na	na	na	2611	2651	2714	2705	na	na	na	na
+na	na	na	na	1793	1843	1807	1761	na	na	na	na
+na	na	na	na	1004	985	1006	999	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3780
+T[°C]: 25.3
+na	na	na	na	2638	2621	2724	2711	na	na	na	na
+na	na	na	na	1805	1867	1808	1763	na	na	na	na
+na	na	na	na	1016	994	1005	998	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3840
+T[°C]: 25.3
+na	na	na	na	2618	2633	2714	2695	na	na	na	na
+na	na	na	na	1827	1874	1793	1763	na	na	na	na
+na	na	na	na	1008	982	1003	1014	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3900
+T[°C]: 25.3
+na	na	na	na	2621	2634	2732	2732	na	na	na	na
+na	na	na	na	1827	1865	1817	1769	na	na	na	na
+na	na	na	na	996	963	1000	996	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 3960
+T[°C]: 25.3
+na	na	na	na	2606	2636	2727	2711	na	na	na	na
+na	na	na	na	1816	1881	1823	1787	na	na	na	na
+na	na	na	na	980	991	996	994	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4020
+T[°C]: 25.3
+na	na	na	na	2594	2650	2719	2700	na	na	na	na
+na	na	na	na	1814	1880	1828	1789	na	na	na	na
+na	na	na	na	998	971	996	1000	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4080
+T[°C]: 25.3
+na	na	na	na	2613	2663	2716	2727	na	na	na	na
+na	na	na	na	1821	1871	1834	1784	na	na	na	na
+na	na	na	na	998	989	992	1000	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4140
+T[°C]: 25.3
+na	na	na	na	2625	2624	2755	2717	na	na	na	na
+na	na	na	na	1819	1876	1824	1787	na	na	na	na
+na	na	na	na	983	970	979	995	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4200
+T[°C]: 25.3
+na	na	na	na	2609	2646	2727	2727	na	na	na	na
+na	na	na	na	1833	1871	1831	1794	na	na	na	na
+na	na	na	na	1001	968	992	982	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4260
+T[°C]: 25.3
+na	na	na	na	2619	2653	2734	2714	na	na	na	na
+na	na	na	na	1833	1890	1821	1792	na	na	na	na
+na	na	na	na	986	962	986	988	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4320
+T[°C]: 25.3
+na	na	na	na	2590	2647	2715	2700	na	na	na	na
+na	na	na	na	1836	1875	1820	1792	na	na	na	na
+na	na	na	na	993	961	990	996	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4380
+T[°C]: 25.3
+na	na	na	na	2609	2637	2720	2710	na	na	na	na
+na	na	na	na	1839	1880	1859	1791	na	na	na	na
+na	na	na	na	998	965	980	982	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4440
+T[°C]: 25.4
+na	na	na	na	2599	2642	2762	2715	na	na	na	na
+na	na	na	na	1835	1886	1840	1792	na	na	na	na
+na	na	na	na	984	960	983	990	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4500
+T[°C]: 25.4
+na	na	na	na	2589	2677	2724	2714	na	na	na	na
+na	na	na	na	1839	1901	1869	1808	na	na	na	na
+na	na	na	na	992	970	971	984	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4560
+T[°C]: 25.4
+na	na	na	na	2619	2634	2736	2733	na	na	na	na
+na	na	na	na	1830	1916	1850	1807	na	na	na	na
+na	na	na	na	995	964	984	978	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4620
+T[°C]: 25.4
+na	na	na	na	2633	2646	2747	2716	na	na	na	na
+na	na	na	na	1848	1903	1858	1802	na	na	na	na
+na	na	na	na	986	952	986	976	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4680
+T[°C]: 25.4
+na	na	na	na	2590	2633	2735	2701	na	na	na	na
+na	na	na	na	1839	1912	1852	1802	na	na	na	na
+na	na	na	na	973	956	973	979	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4740
+T[°C]: 25.4
+na	na	na	na	2644	2661	2740	2710	na	na	na	na
+na	na	na	na	1851	1930	1867	1827	na	na	na	na
+na	na	na	na	979	955	987	978	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4800
+T[°C]: 25.4
+na	na	na	na	2597	2640	2744	2720	na	na	na	na
+na	na	na	na	1848	1909	1863	1804	na	na	na	na
+na	na	na	na	974	954	982	975	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4860
+T[°C]: 25.4
+na	na	na	na	2602	2646	2758	2705	na	na	na	na
+na	na	na	na	1852	1919	1882	1810	na	na	na	na
+na	na	na	na	974	940	970	970	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4920
+T[°C]: 25.4
+na	na	na	na	2579	2666	2759	2711	na	na	na	na
+na	na	na	na	1879	1926	1884	1831	na	na	na	na
+na	na	na	na	973	944	967	965	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 4980
+T[°C]: 25.4
+na	na	na	na	2608	2644	2727	2719	na	na	na	na
+na	na	na	na	1866	1904	1878	1840	na	na	na	na
+na	na	na	na	977	943	970	960	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5040
+T[°C]: 25.4
+na	na	na	na	2601	2644	2736	2741	na	na	na	na
+na	na	na	na	1860	1909	1880	1841	na	na	na	na
+na	na	na	na	973	949	964	972	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5100
+T[°C]: 25.4
+na	na	na	na	2593	2642	2744	2725	na	na	na	na
+na	na	na	na	1851	1911	1880	1838	na	na	na	na
+na	na	na	na	960	956	958	968	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5160
+T[°C]: 25.4
+na	na	na	na	2597	2660	2746	2746	na	na	na	na
+na	na	na	na	1877	1921	1880	1853	na	na	na	na
+na	na	na	na	961	943	959	960	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5220
+T[°C]: 25.4
+na	na	na	na	2623	2654	2740	2707	na	na	na	na
+na	na	na	na	1884	1914	1900	1839	na	na	na	na
+na	na	na	na	962	938	970	957	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5280
+T[°C]: 25.4
+na	na	na	na	2616	2639	2752	2709	na	na	na	na
+na	na	na	na	1880	1926	1889	1847	na	na	na	na
+na	na	na	na	960	942	969	958	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5340
+T[°C]: 25.4
+na	na	na	na	2620	2672	2753	2734	na	na	na	na
+na	na	na	na	1890	1927	1912	1852	na	na	na	na
+na	na	na	na	956	949	963	954	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5400
+T[°C]: 25.4
+na	na	na	na	2604	2656	2762	2735	na	na	na	na
+na	na	na	na	1873	1909	1912	1850	na	na	na	na
+na	na	na	na	952	941	960	960	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5460
+T[°C]: 25.4
+na	na	na	na	2629	2648	2774	2704	na	na	na	na
+na	na	na	na	1903	1943	1901	1873	na	na	na	na
+na	na	na	na	966	942	959	964	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5520
+T[°C]: 25.4
+na	na	na	na	2628	2672	2774	2709	na	na	na	na
+na	na	na	na	1886	1904	1901	1858	na	na	na	na
+na	na	na	na	952	942	959	959	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5580
+T[°C]: 25.4
+na	na	na	na	2610	2655	2755	2711	na	na	na	na
+na	na	na	na	1916	1921	1902	1879	na	na	na	na
+na	na	na	na	961	930	952	963	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5640
+T[°C]: 25.4
+na	na	na	na	2613	2657	2770	2728	na	na	na	na
+na	na	na	na	1897	1927	1896	1857	na	na	na	na
+na	na	na	na	951	942	950	956	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5700
+T[°C]: 25.4
+na	na	na	na	2625	2651	2757	2714	na	na	na	na
+na	na	na	na	1900	1940	1908	1873	na	na	na	na
+na	na	na	na	946	928	944	963	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5760
+T[°C]: 25.4
+na	na	na	na	2629	2665	2752	2750	na	na	na	na
+na	na	na	na	1895	1930	1900	1866	na	na	na	na
+na	na	na	na	945	919	960	954	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5820
+T[°C]: 25.4
+na	na	na	na	2615	2667	2783	2726	na	na	na	na
+na	na	na	na	1892	1919	1910	1868	na	na	na	na
+na	na	na	na	952	927	944	960	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5880
+T[°C]: 25.4
+na	na	na	na	2627	2676	2762	2737	na	na	na	na
+na	na	na	na	1918	1943	1897	1883	na	na	na	na
+na	na	na	na	953	916	952	953	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 5940
+T[°C]: 25.4
+na	na	na	na	2618	2671	2779	2734	na	na	na	na
+na	na	na	na	1882	1953	1901	1877	na	na	na	na
+na	na	na	na	940	935	948	945	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6000
+T[°C]: 25.4
+na	na	na	na	2601	2671	2778	2733	na	na	na	na
+na	na	na	na	1907	1931	1908	1892	na	na	na	na
+na	na	na	na	944	928	945	955	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6060
+T[°C]: 25.4
+na	na	na	na	2620	2669	2784	2738	na	na	na	na
+na	na	na	na	1913	1946	1915	1911	na	na	na	na
+na	na	na	na	940	918	934	953	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6120
+T[°C]: 25.4
+na	na	na	na	2606	2658	2750	2744	na	na	na	na
+na	na	na	na	1906	1939	1923	1888	na	na	na	na
+na	na	na	na	942	908	938	939	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6180
+T[°C]: 25.4
+na	na	na	na	2611	2658	2782	2732	na	na	na	na
+na	na	na	na	1911	1940	1916	1891	na	na	na	na
+na	na	na	na	932	912	944	940	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6240
+T[°C]: 25.4
+na	na	na	na	2598	2658	2788	2754	na	na	na	na
+na	na	na	na	1932	1958	1920	1903	na	na	na	na
+na	na	na	na	938	931	946	939	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6300
+T[°C]: 25.4
+na	na	na	na	2634	2668	2789	2749	na	na	na	na
+na	na	na	na	1920	1945	1925	1902	na	na	na	na
+na	na	na	na	942	922	937	939	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6360
+T[°C]: 25.4
+na	na	na	na	2634	2677	2774	2727	na	na	na	na
+na	na	na	na	1918	1941	1936	1902	na	na	na	na
+na	na	na	na	922	930	937	954	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6420
+T[°C]: 25.4
+na	na	na	na	2630	2678	2781	2759	na	na	na	na
+na	na	na	na	1922	1941	1922	1901	na	na	na	na
+na	na	na	na	930	916	929	940	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6480
+T[°C]: 25.4
+na	na	na	na	2618	2659	2778	2741	na	na	na	na
+na	na	na	na	1932	1956	1934	1893	na	na	na	na
+na	na	na	na	927	907	941	947	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6540
+T[°C]: 25.4
+na	na	na	na	2636	2660	2777	2726	na	na	na	na
+na	na	na	na	1914	1934	1920	1896	na	na	na	na
+na	na	na	na	935	910	930	929	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6600
+T[°C]: 25.4
+na	na	na	na	2629	2649	2768	2746	na	na	na	na
+na	na	na	na	1923	1927	1905	1911	na	na	na	na
+na	na	na	na	940	912	931	938	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6660
+T[°C]: 25.4
+na	na	na	na	2609	2676	2790	2744	na	na	na	na
+na	na	na	na	1902	1935	1921	1893	na	na	na	na
+na	na	na	na	927	907	934	942	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6720
+T[°C]: 25.4
+na	na	na	na	2630	2664	2784	2752	na	na	na	na
+na	na	na	na	1916	1941	1924	1898	na	na	na	na
+na	na	na	na	928	906	937	935	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6780
+T[°C]: 25.4
+na	na	na	na	2618	2693	2823	2726	na	na	na	na
+na	na	na	na	1909	1929	1922	1912	na	na	na	na
+na	na	na	na	926	903	929	927	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6840
+T[°C]: 25.4
+na	na	na	na	2628	2666	2780	2755	na	na	na	na
+na	na	na	na	1944	1933	1925	1916	na	na	na	na
+na	na	na	na	936	911	936	933	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6900
+T[°C]: 25.4
+na	na	na	na	2656	2693	2774	2740	na	na	na	na
+na	na	na	na	1933	1947	1952	1918	na	na	na	na
+na	na	na	na	930	907	928	928	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 6960
+T[°C]: 25.4
+na	na	na	na	2633	2677	2816	2751	na	na	na	na
+na	na	na	na	1931	1924	1927	1925	na	na	na	na
+na	na	na	na	928	897	928	929	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7020
+T[°C]: 25.5
+na	na	na	na	2627	2656	2806	2724	na	na	na	na
+na	na	na	na	1930	1941	1943	1917	na	na	na	na
+na	na	na	na	924	900	922	919	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7080
+T[°C]: 25.5
+na	na	na	na	2648	2681	2804	2739	na	na	na	na
+na	na	na	na	1917	1942	1925	1910	na	na	na	na
+na	na	na	na	926	904	929	928	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7140
+T[°C]: 25.5
+na	na	na	na	2639	2682	2798	2758	na	na	na	na
+na	na	na	na	1910	1949	1930	1927	na	na	na	na
+na	na	na	na	930	904	924	921	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7200
+T[°C]: 25.5
+na	na	na	na	2658	2675	2810	2757	na	na	na	na
+na	na	na	na	1918	1934	1929	1916	na	na	na	na
+na	na	na	na	925	901	917	920	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7260
+T[°C]: 25.5
+na	na	na	na	2651	2693	2804	2765	na	na	na	na
+na	na	na	na	1927	1944	1946	1921	na	na	na	na
+na	na	na	na	929	896	923	930	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7320
+T[°C]: 25.5
+na	na	na	na	2658	2696	2806	2748	na	na	na	na
+na	na	na	na	1923	1937	1946	1910	na	na	na	na
+na	na	na	na	934	912	923	923	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7380
+T[°C]: 25.5
+na	na	na	na	2655	2680	2806	2742	na	na	na	na
+na	na	na	na	1918	1946	1931	1917	na	na	na	na
+na	na	na	na	923	894	905	925	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7440
+T[°C]: 25.5
+na	na	na	na	2647	2690	2802	2749	na	na	na	na
+na	na	na	na	1928	1925	1934	1918	na	na	na	na
+na	na	na	na	920	904	912	938	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7500
+T[°C]: 25.5
+na	na	na	na	2618	2645	2793	2745	na	na	na	na
+na	na	na	na	1934	1914	1945	1904	na	na	na	na
+na	na	na	na	934	899	932	925	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7560
+T[°C]: 25.5
+na	na	na	na	2635	2650	2807	2758	na	na	na	na
+na	na	na	na	1925	1940	1939	1915	na	na	na	na
+na	na	na	na	935	913	904	936	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7620
+T[°C]: 25.5
+na	na	na	na	2636	2702	2796	2771	na	na	na	na
+na	na	na	na	1945	1939	1941	1915	na	na	na	na
+na	na	na	na	928	911	910	928	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7680
+T[°C]: 25.5
+na	na	na	na	2639	2675	2817	2734	na	na	na	na
+na	na	na	na	1915	1957	1947	1933	na	na	na	na
+na	na	na	na	945	913	914	932	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7740
+T[°C]: 25.5
+na	na	na	na	2634	2692	2797	2791	na	na	na	na
+na	na	na	na	1919	1936	1955	1906	na	na	na	na
+na	na	na	na	935	917	913	942	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7800
+T[°C]: 25.5
+na	na	na	na	2625	2674	2806	2776	na	na	na	na
+na	na	na	na	1926	1947	1949	1910	na	na	na	na
+na	na	na	na	949	908	919	950	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7860
+T[°C]: 25.5
+na	na	na	na	2628	2688	2788	2783	na	na	na	na
+na	na	na	na	1904	1924	1928	1918	na	na	na	na
+na	na	na	na	957	927	908	955	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7920
+T[°C]: 25.5
+na	na	na	na	2658	2667	2791	2762	na	na	na	na
+na	na	na	na	1925	1927	1940	1913	na	na	na	na
+na	na	na	na	958	938	920	949	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 7980
+T[°C]: 25.5
+na	na	na	na	2635	2696	2816	2744	na	na	na	na
+na	na	na	na	1935	1908	1932	1913	na	na	na	na
+na	na	na	na	963	945	916	965	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8040
+T[°C]: 25.5
+na	na	na	na	2658	2714	2816	2770	na	na	na	na
+na	na	na	na	1906	1921	1928	1929	na	na	na	na
+na	na	na	na	968	936	920	964	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8100
+T[°C]: 25.5
+na	na	na	na	2664	2691	2805	2761	na	na	na	na
+na	na	na	na	1922	1942	1935	1917	na	na	na	na
+na	na	na	na	952	947	914	967	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8160
+T[°C]: 25.5
+na	na	na	na	2637	2693	2810	2763	na	na	na	na
+na	na	na	na	1923	1928	1953	1930	na	na	na	na
+na	na	na	na	966	944	923	976	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8220
+T[°C]: 25.5
+na	na	na	na	2661	2697	2823	2781	na	na	na	na
+na	na	na	na	1938	1938	1939	1909	na	na	na	na
+na	na	na	na	984	953	931	978	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8280
+T[°C]: 25.5
+na	na	na	na	2647	2687	2805	2767	na	na	na	na
+na	na	na	na	1914	1931	1925	1928	na	na	na	na
+na	na	na	na	987	955	928	992	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8340
+T[°C]: 25.5
+na	na	na	na	2654	2696	2809	2775	na	na	na	na
+na	na	na	na	1931	1950	1930	1918	na	na	na	na
+na	na	na	na	985	962	931	993	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8400
+T[°C]: 25.5
+na	na	na	na	2639	2680	2815	2771	na	na	na	na
+na	na	na	na	1923	1920	1929	1934	na	na	na	na
+na	na	na	na	993	972	929	986	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8460
+T[°C]: 25.5
+na	na	na	na	2639	2683	2816	2788	na	na	na	na
+na	na	na	na	1919	1931	1939	1908	na	na	na	na
+na	na	na	na	989	978	946	1001	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8520
+T[°C]: 25.5
+na	na	na	na	2630	2708	2813	2766	na	na	na	na
+na	na	na	na	1903	1919	1942	1919	na	na	na	na
+na	na	na	na	996	987	934	1010	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8580
+T[°C]: 25.5
+na	na	na	na	2637	2707	2813	2768	na	na	na	na
+na	na	na	na	1921	1931	1937	1930	na	na	na	na
+na	na	na	na	1000	975	943	1010	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8640
+T[°C]: 25.5
+na	na	na	na	2654	2708	2821	2783	na	na	na	na
+na	na	na	na	1914	1928	1940	1923	na	na	na	na
+na	na	na	na	1015	990	960	1023	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8700
+T[°C]: 25.5
+na	na	na	na	2645	2682	2842	2764	na	na	na	na
+na	na	na	na	1922	1919	1923	1918	na	na	na	na
+na	na	na	na	1020	996	969	1034	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8760
+T[°C]: 25.5
+na	na	na	na	2676	2695	2827	2778	na	na	na	na
+na	na	na	na	1931	1916	1931	1933	na	na	na	na
+na	na	na	na	1013	990	954	1031	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8820
+T[°C]: 25.5
+na	na	na	na	2659	2704	2830	2779	na	na	na	na
+na	na	na	na	1898	1918	1931	1905	na	na	na	na
+na	na	na	na	1006	1000	959	1026	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8880
+T[°C]: 25.5
+na	na	na	na	2643	2703	2839	2775	na	na	na	na
+na	na	na	na	1921	1911	1935	1918	na	na	na	na
+na	na	na	na	1024	1002	970	1030	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 8940
+T[°C]: 25.5
+na	na	na	na	2659	2711	2829	2769	na	na	na	na
+na	na	na	na	1930	1915	1937	1917	na	na	na	na
+na	na	na	na	1020	991	980	1036	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9000
+T[°C]: 25.5
+na	na	na	na	2640	2687	2824	2806	na	na	na	na
+na	na	na	na	1925	1917	1921	1928	na	na	na	na
+na	na	na	na	1037	1013	985	1046	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9060
+T[°C]: 25.5
+na	na	na	na	2655	2697	2840	2792	na	na	na	na
+na	na	na	na	1932	1934	1937	1928	na	na	na	na
+na	na	na	na	1034	1002	981	1036	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9120
+T[°C]: 25.5
+na	na	na	na	2651	2702	2825	2770	na	na	na	na
+na	na	na	na	1899	1915	1919	1922	na	na	na	na
+na	na	na	na	1038	1011	991	1059	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9180
+T[°C]: 25.5
+na	na	na	na	2651	2713	2825	2780	na	na	na	na
+na	na	na	na	1925	1912	1917	1910	na	na	na	na
+na	na	na	na	1034	1019	996	1060	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9240
+T[°C]: 25.5
+na	na	na	na	2674	2722	2813	2796	na	na	na	na
+na	na	na	na	1891	1920	1927	1905	na	na	na	na
+na	na	na	na	1044	1007	986	1069	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9300
+T[°C]: 25.5
+na	na	na	na	2657	2700	2806	2763	na	na	na	na
+na	na	na	na	1920	1932	1921	1920	na	na	na	na
+na	na	na	na	1054	1010	990	1059	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9360
+T[°C]: 25.5
+na	na	na	na	2651	2687	2840	2755	na	na	na	na
+na	na	na	na	1890	1913	1926	1906	na	na	na	na
+na	na	na	na	1057	1012	1010	1069	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9420
+T[°C]: 25.5
+na	na	na	na	2628	2682	2810	2780	na	na	na	na
+na	na	na	na	1939	1919	1927	1937	na	na	na	na
+na	na	na	na	1036	1032	1001	1072	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9480
+T[°C]: 25.5
+na	na	na	na	2645	2688	2831	2798	na	na	na	na
+na	na	na	na	1899	1903	1932	1905	na	na	na	na
+na	na	na	na	1069	1023	1008	1073	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9540
+T[°C]: 25.5
+na	na	na	na	2658	2689	2831	2781	na	na	na	na
+na	na	na	na	1897	1919	1931	1918	na	na	na	na
+na	na	na	na	1055	1028	1010	1085	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9600
+T[°C]: 25.5
+na	na	na	na	2676	2698	2830	2794	na	na	na	na
+na	na	na	na	1906	1919	1916	1919	na	na	na	na
+na	na	na	na	1066	1032	1004	1085	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9660
+T[°C]: 25.5
+na	na	na	na	2640	2699	2817	2769	na	na	na	na
+na	na	na	na	1904	1898	1911	1923	na	na	na	na
+na	na	na	na	1052	1023	1015	1077	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9720
+T[°C]: 25.5
+na	na	na	na	2646	2688	2811	2799	na	na	na	na
+na	na	na	na	1908	1898	1913	1918	na	na	na	na
+na	na	na	na	1061	1036	1024	1069	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9780
+T[°C]: 25.5
+na	na	na	na	2652	2703	2810	2791	na	na	na	na
+na	na	na	na	1913	1895	1940	1899	na	na	na	na
+na	na	na	na	1065	1044	1030	1066	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9840
+T[°C]: 25.5
+na	na	na	na	2639	2713	2837	2784	na	na	na	na
+na	na	na	na	1911	1909	1922	1920	na	na	na	na
+na	na	na	na	1062	1040	1023	1076	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9900
+T[°C]: 25.5
+na	na	na	na	2663	2698	2836	2802	na	na	na	na
+na	na	na	na	1902	1907	1914	1902	na	na	na	na
+na	na	na	na	1062	1028	1039	1076	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 9960
+T[°C]: 25.5
+na	na	na	na	2655	2708	2839	2789	na	na	na	na
+na	na	na	na	1898	1888	1914	1904	na	na	na	na
+na	na	na	na	1079	1040	1043	1082	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10020
+T[°C]: 25.5
+na	na	na	na	2640	2692	2838	2800	na	na	na	na
+na	na	na	na	1885	1906	1915	1926	na	na	na	na
+na	na	na	na	1080	1032	1029	1095	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10080
+T[°C]: 25.5
+na	na	na	na	2685	2712	2815	2790	na	na	na	na
+na	na	na	na	1900	1899	1913	1918	na	na	na	na
+na	na	na	na	1089	1051	1036	1083	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10140
+T[°C]: 25.5
+na	na	na	na	2641	2697	2812	2810	na	na	na	na
+na	na	na	na	1900	1900	1911	1911	na	na	na	na
+na	na	na	na	1067	1044	1030	1085	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10200
+T[°C]: 25.5
+na	na	na	na	2646	2687	2823	2800	na	na	na	na
+na	na	na	na	1905	1900	1904	1917	na	na	na	na
+na	na	na	na	1074	1051	1049	1090	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10260
+T[°C]: 25.5
+na	na	na	na	2687	2698	2847	2799	na	na	na	na
+na	na	na	na	1884	1897	1918	1910	na	na	na	na
+na	na	na	na	1084	1026	1037	1096	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10320
+T[°C]: 25.5
+na	na	na	na	2669	2704	2839	2804	na	na	na	na
+na	na	na	na	1899	1891	1928	1919	na	na	na	na
+na	na	na	na	1082	1055	1041	1106	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10380
+T[°C]: 25.5
+na	na	na	na	2653	2722	2808	2809	na	na	na	na
+na	na	na	na	1896	1901	1923	1903	na	na	na	na
+na	na	na	na	1076	1042	1035	1079	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10440
+T[°C]: 25.5
+na	na	na	na	2657	2726	2827	2820	na	na	na	na
+na	na	na	na	1889	1880	1901	1896	na	na	na	na
+na	na	na	na	1091	1038	1041	1100	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10500
+T[°C]: 25.5
+na	na	na	na	2650	2698	2830	2821	na	na	na	na
+na	na	na	na	1895	1897	1899	1908	na	na	na	na
+na	na	na	na	1087	1049	1050	1114	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10560
+T[°C]: 25.5
+na	na	na	na	2673	2733	2830	2806	na	na	na	na
+na	na	na	na	1897	1902	1925	1920	na	na	na	na
+na	na	na	na	1097	1059	1031	1106	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10620
+T[°C]: 25.5
+na	na	na	na	2666	2709	2812	2806	na	na	na	na
+na	na	na	na	1888	1871	1927	1911	na	na	na	na
+na	na	na	na	1086	1058	1034	1094	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10680
+T[°C]: 25.5
+na	na	na	na	2652	2718	2820	2819	na	na	na	na
+na	na	na	na	1896	1903	1912	1916	na	na	na	na
+na	na	na	na	1079	1054	1047	1083	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10740
+T[°C]: 25.5
+na	na	na	na	2661	2714	2831	2807	na	na	na	na
+na	na	na	na	1897	1893	1914	1911	na	na	na	na
+na	na	na	na	1101	1041	1057	1101	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10800
+T[°C]: 25.5
+na	na	na	na	2658	2709	2791	2800	na	na	na	na
+na	na	na	na	1882	1889	1918	1903	na	na	na	na
+na	na	na	na	1096	1039	1046	1089	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10860
+T[°C]: 25.5
+na	na	na	na	2678	2718	2817	2792	na	na	na	na
+na	na	na	na	1894	1880	1908	1906	na	na	na	na
+na	na	na	na	1090	1055	1042	1098	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10920
+T[°C]: 25.5
+na	na	na	na	2669	2722	2834	2806	na	na	na	na
+na	na	na	na	1893	1884	1902	1894	na	na	na	na
+na	na	na	na	1083	1061	1057	1110	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 10980
+T[°C]: 25.5
+na	na	na	na	2650	2728	2831	2784	na	na	na	na
+na	na	na	na	1898	1900	1917	1904	na	na	na	na
+na	na	na	na	1100	1065	1047	1112	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11040
+T[°C]: 25.5
+na	na	na	na	2657	2705	2836	2805	na	na	na	na
+na	na	na	na	1891	1890	1923	1915	na	na	na	na
+na	na	na	na	1110	1048	1058	1105	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11100
+T[°C]: 25.5
+na	na	na	na	2669	2722	2821	2833	na	na	na	na
+na	na	na	na	1875	1890	1896	1897	na	na	na	na
+na	na	na	na	1098	1052	1063	1103	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11160
+T[°C]: 25.5
+na	na	na	na	2665	2712	2806	2814	na	na	na	na
+na	na	na	na	1891	1883	1924	1899	na	na	na	na
+na	na	na	na	1105	1061	1063	1117	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11220
+T[°C]: 25.5
+na	na	na	na	2643	2724	2800	2816	na	na	na	na
+na	na	na	na	1893	1880	1910	1907	na	na	na	na
+na	na	na	na	1109	1063	1062	1109	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11280
+T[°C]: 25.5
+na	na	na	na	2671	2702	2834	2809	na	na	na	na
+na	na	na	na	1894	1891	1908	1919	na	na	na	na
+na	na	na	na	1091	1058	1060	1116	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11340
+T[°C]: 25.5
+na	na	na	na	2668	2726	2816	2797	na	na	na	na
+na	na	na	na	1890	1899	1905	1902	na	na	na	na
+na	na	na	na	1111	1069	1078	1105	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11400
+T[°C]: 25.5
+na	na	na	na	2675	2707	2824	2796	na	na	na	na
+na	na	na	na	1869	1893	1913	1899	na	na	na	na
+na	na	na	na	1099	1050	1049	1118	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11460
+T[°C]: 25.5
+na	na	na	na	2677	2738	2833	2823	na	na	na	na
+na	na	na	na	1895	1884	1903	1909	na	na	na	na
+na	na	na	na	1101	1069	1058	1109	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11520
+T[°C]: 25.5
+na	na	na	na	2670	2701	2845	2817	na	na	na	na
+na	na	na	na	1875	1885	1907	1907	na	na	na	na
+na	na	na	na	1096	1076	1056	1127	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11580
+T[°C]: 25.5
+na	na	na	na	2655	2711	2845	2825	na	na	na	na
+na	na	na	na	1889	1877	1890	1911	na	na	na	na
+na	na	na	na	1106	1071	1068	1100	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11640
+T[°C]: 25.5
+na	na	na	na	2663	2709	2841	2825	na	na	na	na
+na	na	na	na	1889	1883	1912	1893	na	na	na	na
+na	na	na	na	1108	1062	1069	1130	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11700
+T[°C]: 25.5
+na	na	na	na	2647	2703	2815	2804	na	na	na	na
+na	na	na	na	1884	1888	1902	1888	na	na	na	na
+na	na	na	na	1109	1074	1045	1124	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11760
+T[°C]: 25.5
+na	na	na	na	2673	2735	2835	2816	na	na	na	na
+na	na	na	na	1902	1883	1898	1914	na	na	na	na
+na	na	na	na	1109	1076	1057	1114	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11820
+T[°C]: 25.5
+na	na	na	na	2655	2719	2802	2796	na	na	na	na
+na	na	na	na	1871	1880	1910	1900	na	na	na	na
+na	na	na	na	1108	1075	1066	1127	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11880
+T[°C]: 25.5
+na	na	na	na	2674	2740	2841	2806	na	na	na	na
+na	na	na	na	1869	1886	1923	1889	na	na	na	na
+na	na	na	na	1112	1065	1073	1124	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 11940
+T[°C]: 25.5
+na	na	na	na	2670	2728	2834	2817	na	na	na	na
+na	na	na	na	1889	1883	1907	1908	na	na	na	na
+na	na	na	na	1103	1055	1079	1126	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12000
+T[°C]: 25.5
+na	na	na	na	2672	2723	2842	2802	na	na	na	na
+na	na	na	na	1887	1879	1903	1906	na	na	na	na
+na	na	na	na	1116	1067	1072	1133	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12060
+T[°C]: 25.5
+na	na	na	na	2694	2715	2824	2823	na	na	na	na
+na	na	na	na	1890	1874	1904	1904	na	na	na	na
+na	na	na	na	1109	1074	1085	1113	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12120
+T[°C]: 25.5
+na	na	na	na	2678	2731	2825	2810	na	na	na	na
+na	na	na	na	1868	1876	1905	1903	na	na	na	na
+na	na	na	na	1105	1072	1083	1129	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12180
+T[°C]: 25.5
+na	na	na	na	2644	2734	2838	2823	na	na	na	na
+na	na	na	na	1877	1886	1918	1902	na	na	na	na
+na	na	na	na	1120	1072	1065	1128	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12240
+T[°C]: 25.5
+na	na	na	na	2681	2703	2841	2817	na	na	na	na
+na	na	na	na	1870	1893	1915	1896	na	na	na	na
+na	na	na	na	1110	1072	1074	1144	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12300
+T[°C]: 25.5
+na	na	na	na	2678	2714	2845	2798	na	na	na	na
+na	na	na	na	1886	1868	1897	1908	na	na	na	na
+na	na	na	na	1112	1064	1068	1140	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12360
+T[°C]: 25.5
+na	na	na	na	2663	2709	2834	2838	na	na	na	na
+na	na	na	na	1890	1865	1913	1903	na	na	na	na
+na	na	na	na	1099	1085	1071	1130	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12420
+T[°C]: 25.5
+na	na	na	na	2668	2720	2838	2834	na	na	na	na
+na	na	na	na	1882	1849	1899	1897	na	na	na	na
+na	na	na	na	1109	1082	1071	1129	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12480
+T[°C]: 25.5
+na	na	na	na	2669	2738	2821	2819	na	na	na	na
+na	na	na	na	1884	1874	1901	1901	na	na	na	na
+na	na	na	na	1108	1072	1084	1150	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12540
+T[°C]: 25.5
+na	na	na	na	2682	2714	2833	2812	na	na	na	na
+na	na	na	na	1885	1866	1893	1908	na	na	na	na
+na	na	na	na	1111	1080	1074	1141	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+
+Time [s]: 12600
+T[°C]: 25.5
+na	na	na	na	2677	2725	2814	2820	na	na	na	na
+na	na	na	na	1878	1858	1912	1897	na	na	na	na
+na	na	na	na	1109	1075	1073	1127	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+na	na	na	na	na	na	na	na	na	na	na	na
+

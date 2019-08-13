@@ -1,0 +1,32 @@
+Package: sinkworx
+Type: Package
+Version: 0.1.0
+Date: 2019-07-31
+Title: Import, Model, and Plot Cell Sinking Data
+Author: Melissa Rioux <mlrioux@mta.ca>
+Maintainer: Melissa Rioux <mlrioux@mta.ca>
+Description:
+    This package handles the import, modelling, and plotting of phytoplankton cell sinking data.
+    The data should be generated according to the sinking assay protocol created by the Campbell lab at Mount Allison University 
+    (see Bannon and Campbell, 2017). 
+    These functions allow the user to import cell sinking data from certain plate spectrophotometers, generate plots of fluorescence
+    versus time by well, fit segmented regressions by well, and generate sinking rate estimates. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Collate:
+    'import functions.R'
+    'plot rfu.R'
+    'sink fit.R'
+    'sink plot.R'
+    'sink rate.R'
+Imports: 
+    magrittr, 
+    readr, 
+    dplyr, 
+    stringr, 
+    tidyr, 
+    janitor, 
+    segmented, 
+    broom
+RoxygenNote: 6.1.1
