@@ -1,0 +1,211 @@
+### Data transforms of RFU vs time
+### sqrt(RFU) vs time and scaled intercept
+### Melissa August 2018
+
+# Requires the database
+# How to deal with well depths? (ignore for now)
+
+# Packages
+
+# library(tidyverse)
+# library(dplyr)
+# library(broom)
+# library(segmented)
+#
+# # User input (ie. args) ------------------------------------------------
+# paths <- list();
+# paths$main.folder <- here::here()
+# paths$database <- "Sink_Database.csv"
+# paths$plots <- "Sink Rates Fitted.pdf"
+# paths$output <- "Sink Rates.csv"
+# paths$stats <- "stats dataset.csv"
+#
+# database <- read_csv(file = file.path(paths$main.folder, paths$database))
+#
+# # Have some fltering criteria?
+#
+# plot_by <- paste(database$Plate, database$Well)
+#
+# well_depth <- 3.8 # SAMPLE depth?
+#
+# break_est <- c(20, 50) # self scale? fraction of total duration
+#
+# # Data transform and linear regression ----------------------------------
+#
+# database$sqrt.RFU <- sqrt(database$RFU)
+#
+# wells <- unique(plot_by)
+#
+# Sink_Rates <- NULL
+#
+# pdf(paths$plots)
+#
+# for (w in 1:length(wells)) {
+#
+#   sink_rates <- NULL
+#
+#   focus_well <- wells[w]
+#
+#   well_data <- filter(database, plot_by == focus_well)
+#
+#   sink_fit <- lm(sqrt.RFU ~ Elapsed.Time.m, data = well_data)
+#
+#
+#
+#
+#
+#   sink_seg <- NULL
+#
+#   attempt <- 0
+#
+#   while(is.null(sink_seg) && attempt <= 19) {
+#
+#     attempt <- attempt + 1
+#
+#     try(
+#       sink_seg <- segmented(sink_fit, seg.Z = ~ Elapsed.Time.m, psi = list(Elapsed.Time.m = c(break_est)))
+#     )
+#
+#     }
+
+  #seg_fitted <- fitted(sink_seg)
+
+  #int1 <- coef(sink_seg)[[1]]
+
+  #slope1 <- coef(sink_seg)[[2]]
+
+  #break1 <- sink_seg$psi[[3]]
+
+  #break2 <- sink_seg$psi[[4]]
+
+  #slope2 <- coef(sink_seg)[[2]] + coef(sink_seg)[[3]]
+
+  #int2 <- (int1 + slope1 * break1) - (slope2 * break1)
+
+  bottom_RFU <- well_data[which(well_data$Elapsed.Time.m > break2),] %>%
+    arrange(sqrt.RFU)
+
+  # issue if less than 3 points
+  low_points <- bottom_RFU$sqrt.RFU[0:3]
+
+  well_bottom <- mean(low_points)
+
+  # generate core plot without red line
+
+  s <- ggplot(well_data, aes(x = Elapsed.Time.m, y = as.numeric(sqrt.RFU))) +
+      geom_point(size = 3, shape = 6, colour = "seagreen", fill = "white") +
+      theme_classic() +
+      theme(text = element_text(size = 16, colour = "black")) +
+      theme(axis.text = element_text(size = 16, colour = "black")) +
+      theme(plot.title = element_text(hjust = 0.5)) +
+      labs(x = "Elapsed time (minutes)", y = "sqrt(RFU)", title = well_data$Measure.Date) +
+      geom_line(aes(y = seg_fitted))
+
+  # Calculate the 3 different sinking rates
+
+    sink_rate1 <- (slope1/(int1 - well_bottom)) * well_depth
+
+    slopes <- slope(sink_seg)
+
+    slopes_tidy <- tidy(slopes$Elapsed.Time.m)
+
+    # Same transformation as sinking rate
+
+    CI_lower1 <- (slopes_tidy$CI.95...l[[1]])/(int1 - well_bottom) * well_depth
+
+    CI_upper1 <- (slopes_tidy$CI.95...u[[1]])/(int1 - well_bottom) * well_depth
+
+    # Add fitted line to plot
+
+    s <- s +
+      geom_abline(intercept = int1, slope = slope1, colour = "red", lty = 2, size = 1.25)
+
+      sink_rate2 <- (slope2/(int2- well_bottom)) * well_depth
+
+      slopes <- slope(sink_seg)
+
+      slopes_tidy <- tidy(slopes$Elapsed.Time.m)
+
+      # Same transformation as sinking rate
+
+      CI_lower2 <- (slopes_tidy$CI.95...l[[2]])/(int2 - well_bottom) * well_depth
+
+      CI_upper2 <- (slopes_tidy$CI.95...u[[2]])/(int2- well_bottom) * well_depth
+
+      # Add fitted line to plot
+
+       s <- s +
+        geom_abline(intercept = int2, slope = slope2, colour = "royal blue", lty = 2, size = 1.25)
+
+       #slope3 <- slopes_tidy$Est.[[3]]
+
+       #int3 <- (int2 + slope2 * break2) - (slope3 * break2)
+
+       sink_rate3 <- (slope3/(int3 - well_bottom)) * well_depth
+
+       CI_lower3 <- (slopes_tidy$CI.95...l[[3]])/(int3 - well_bottom) * well_depth
+
+       CI_upper3 <- (slopes_tidy$CI.95...u[[3]])/(int3 - well_bottom) * well_depth
+
+       s <- s + geom_abline(intercept = int3, slope = slope3, colour = "black", lty = 2, size = 1.25)
+
+  # Put stuff into dataframe
+
+  sink_rates$sink_rate1 <- sink_rate1
+
+  sink_rates$sink_rate2 <- sink_rate2
+
+  sink_rates$sink_rate3 <- sink_rate3
+
+  sink_rates$int_1 <- int1
+
+  sink_rates$slope_1 <- slope1
+
+  sink_rates$int_2 <- int2
+
+  sink_rates$slope_2 <- slope2
+
+  sink_rates$int_3 <- int3
+
+  sink_rates$slope_3 <- slope3
+
+  sink_rates$break_1 <- break1
+
+  sink_rates$break_2 <- break2
+
+  sink_rates$well_bottom <- well_bottom
+
+  sink_rates$well_depth <- well_depth # to include or not to include?
+
+  sink_rates$CI_lower_1 <- CI_lower1
+
+  sink_rates$CI_upper_1 <- CI_upper1
+
+  sink_rates$CI_lower_2 <- CI_lower2
+
+  sink_rates$CI_upper_2 <- CI_upper2
+
+  sink_rates$CI_lower_3 <- CI_lower3
+
+  sink_rates$CI_upper_3 <- CI_upper3
+
+  sink_rates$Plate <- well_data$Plate[1]
+
+  sink_rates$Well <- well_data$Well[1]
+
+  sink_rates <- as.data.frame(sink_rates)
+
+  sink_rates <- inner_join(well_data[1, ], sink_rates)
+
+  Sink_Rates <- rbind(Sink_Rates, sink_rates)
+
+  # Add fitted plot to .pdf document
+
+  print(s)
+
+} # Close well loop
+
+write.csv(Sink_Rates, file = paths$output, row.names = F)
+
+dev.off()
+
