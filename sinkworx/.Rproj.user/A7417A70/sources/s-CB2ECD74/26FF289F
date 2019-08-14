@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2017288064",
+    "hash" : "0",
     "id" : "26FF289F",
     "lastKnownWriteTime" : 1565698163,
     "last_content_update" : 1565698163588,
@@ -13,7 +13,7 @@
     "project_path" : "R/sink plot.R",
     "properties" : {
         "cursorPosition" : "19,62",
-        "scrollLine" : "1",
+        "scrollLine" : "0",
         "tempName" : "Untitled2"
     },
     "relative_order" : 5,
