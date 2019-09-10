@@ -14,7 +14,8 @@
 #'@param save_as desired filename, if results are to be exported.
 #'@return A single dataframe containing tidied data from all files in data_folder, as well as experimental metadata if catalog is supplied. Creates the columns "Well", "Elapsed.Time.m", "RFU", and "Plate" (filename without extension).
 #'@examples
-#'import_bmg("Sinking BMG", time_units = "min", RFU_cutoff = 7)
+#'# Create a dataframe from
+#'sinking_data <- import_bmg("Sinking BMG", time_units = "min", RFU_cutoff = 7)
 # --------------------------------------------------------------------------------
 
 import_bmg <- function(data_folder, catalog = NA, time_units = "sec", RFU_cutoff = 10, skip = 1,
