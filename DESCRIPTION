@@ -17,8 +17,8 @@ LazyData: true
 Collate:
     'import functions.R'
     'plot rfu.R'
+    'plot fits.R'
     'sink fit.R'
-    'sink plot.R'
     'sink rate.R'
 Imports: 
     magrittr, 
